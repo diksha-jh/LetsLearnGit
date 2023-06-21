@@ -4,6 +4,7 @@ public class multiply{
         int b = 6;
         System.out.println(a*b);
         System.out.println("..");
+        System.out.println("..");
 
     }
     
